@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**julinha43/julinha43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Julia Karolaine
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Esstou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus progetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entra em contato comigo 📫
+
+juliakarolaine48@gmail.com
+
+@julinha__043
+
+
+![image](https://github.com/julinha43/julinha43/assets/132684680/1c0afe7a-b619-4231-8eb7-62c3ad2c0f1f)
