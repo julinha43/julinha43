@@ -13,4 +13,4 @@ juliakarolaine48@gmail.com
 @julinha__043
 
 
-![image](https://github.com/julinha43/julinha43/assets/132684680/1c0afe7a-b619-4231-8eb7-62c3ad2c0f1f)
+![gif](https://media.tenor.com/nIYFhVzhwmcAAAAC/blink-miraculous-miraculous-ladybug.gif)
